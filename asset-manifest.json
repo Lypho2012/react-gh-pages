@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.f855e6bc.css",
-    "main.js": "/react-gh-pages/static/js/main.8ed17e14.js",
+    "main.css": "/react-gh-pages/static/css/main.5f987fbe.css",
+    "main.js": "/react-gh-pages/static/js/main.d2b8fae9.js",
     "static/js/453.f39ec6d9.chunk.js": "/react-gh-pages/static/js/453.f39ec6d9.chunk.js",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/DansDisney-3nJ8.ttf": "/react-gh-pages/static/media/DansDisney-3nJ8.24a65cd72f06a3740cff.ttf",
     "index.html": "/react-gh-pages/index.html",
-    "main.f855e6bc.css.map": "/react-gh-pages/static/css/main.f855e6bc.css.map",
-    "main.8ed17e14.js.map": "/react-gh-pages/static/js/main.8ed17e14.js.map",
+    "main.5f987fbe.css.map": "/react-gh-pages/static/css/main.5f987fbe.css.map",
+    "main.d2b8fae9.js.map": "/react-gh-pages/static/js/main.d2b8fae9.js.map",
     "453.f39ec6d9.chunk.js.map": "/react-gh-pages/static/js/453.f39ec6d9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.8ed17e14.js"
+    "static/css/main.5f987fbe.css",
+    "static/js/main.d2b8fae9.js"
   ]
 }
